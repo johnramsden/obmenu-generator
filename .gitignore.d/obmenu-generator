@@ -1,0 +1,7 @@
+*
+!/.config
+!/.config/obmenu-generator
+!/.config/obmenu-generator/config.pl
+!/.config/obmenu-generator/schema.pl
+!/.gitignore.d
+!/.gitignore.d/obmenu-generator
